@@ -1,3 +1,4 @@
-# DefenseKit
-script para convertir tu linux en un entorno de defensa y analisis 
+# Ofensive Kit
+script para convertir tu linux en un entorno de pentesting
+
 
